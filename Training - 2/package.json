@@ -1,0 +1,16 @@
+{
+  "name": "tscapp",
+  "version": "1.0.0",
+  "description": "Simple Typescript Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Amitha R",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "request": "^2.88.0"
+  }
+}
