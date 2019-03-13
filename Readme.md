@@ -1,9 +1,3 @@
-Angular 5/6/7
-	Banuprakash C
-	banu@lucidatechnologies.com
-	banuprakashc@yahoo.co.in
-	https://www.linkedin.com/in/banu-prakash-50416019/
-
 	JavaScript
 	---------------
 		Scripting language, loosely typed
