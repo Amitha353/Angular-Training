@@ -1,0 +1,240 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "firstName": "Rachel",
+      "lastName": "Green ",
+      "gender": "female",
+      "address": "Bangalore"
+    },
+    {
+      "id": 2,
+      "firstName": "Chandler",
+      "lastName": "Bing",
+      "gender": "male",
+      "address": "West Street"
+    },
+    {
+      "id": 3,
+      "firstName": "Joey",
+      "lastName": "Tribbiani",
+      "gender": "male",
+      "address": "Kattegat"
+    },
+    {
+      "id": 4,
+      "firstName": "Monica",
+      "lastName": "Geller",
+      "gender": "female",
+      "address": "some address"
+    },
+    {
+      "id": 5,
+      "firstName": "Ross",
+      "lastName": "Geller",
+      "gender": "male",
+      "address": "some address"
+    },
+    {
+      "id": 6,
+      "firstName": "Phoebe",
+      "lastName": "Buffay",
+      "gender": "female",
+      "address": "some address"
+    }
+  ],
+  "orders": [
+    {
+      "orddate": "10/06/2017",
+      "orderId": "10",
+      "orderTotal": "2000",
+      "supplierName": "Xyz Stationaries",
+      "items": [
+        {
+          "orderlineId": 101,
+          "productID": "123",
+          "productName": "Bottle",
+          "qty": "20",
+          "unitPrice": "10",
+          "linePrice": "200"
+        },
+        {
+          "orderlineId": 102,
+          "productID": "124",
+          "productName": "Pen",
+          "qty": "10",
+          "unitPrice": "30",
+          "linePrice": "300"
+        },
+        {
+          "orderlineId": 103,
+          "productID": "124",
+          "productName": "Head Phones",
+          "qty": "2",
+          "unitPrice": "500",
+          "linePrice": "1000"
+        },
+        {
+          "orderlineId": 104,
+          "productID": "125",
+          "productName": "Charger",
+          "qty": "5",
+          "unitPrice": "100",
+          "linePrice": "500"
+        }
+      ]
+    },
+    {
+      "orddate": "10/06/2017",
+      "orderId": "20",
+      "orderTotal": "2500",
+      "supplierName": "ABC Stationaries",
+      "items": [
+        {
+          "orderlineId": 201,
+          "productID": "124",
+          "productName": "Head Phones",
+          "qty": "2",
+          "unitPrice": "500",
+          "linePrice": "1000"
+        },
+        {
+          "orderlineId": 202,
+          "productID": "125",
+          "productName": "Charger",
+          "qty": "15",
+          "unitPrice": "100",
+          "linePrice": "1500"
+        }
+      ]
+    },
+    {
+      "orddate": "10/02/2017",
+      "orderId": "30",
+      "orderTotal": "2000",
+      "supplierName": "Henedy Stationaries",
+      "items": [
+        {
+          "orderlineId": 301,
+          "productID": "123",
+          "productName": "Bottle",
+          "qty": "20",
+          "unitPrice": "10",
+          "linePrice": "200"
+        },
+        {
+          "orderlineId": 302,
+          "productID": "124",
+          "productName": "Pen",
+          "qty": "10",
+          "unitPrice": "30",
+          "linePrice": "300"
+        },
+        {
+          "orderlineId": 303,
+          "productID": "124",
+          "productName": "Head Phones",
+          "qty": "2",
+          "unitPrice": "500",
+          "linePrice": "1000"
+        },
+        {
+          "orderlineId": 304,
+          "productID": "125",
+          "productName": "Charger",
+          "qty": "5",
+          "unitPrice": "100",
+          "linePrice": "500"
+        }
+      ]
+    },
+    {
+      "orddate": "10/02/2017",
+      "orderId": "40",
+      "orderTotal": "2500",
+      "supplierName": "Hillary Stationaries",
+      "items": [
+        {
+          "orderlineId": 401,
+          "productID": "124",
+          "productName": "Head Phones",
+          "qty": "2",
+          "unitPrice": "500",
+          "linePrice": "1000"
+        },
+        {
+          "orderlineId": 402,
+          "productID": "125",
+          "productName": "Charger",
+          "qty": "15",
+          "unitPrice": "100",
+          "linePrice": "1500"
+        }
+      ]
+    },
+    {
+      "orddate": "10/03/2017",
+      "orderId": "50",
+      "orderTotal": "2000",
+      "supplierName": "John Stationaries",
+      "items": [
+        {
+          "orderlineId": 501,
+          "productID": "123",
+          "productName": "Bottle",
+          "qty": "20",
+          "unitPrice": "10",
+          "linePrice": "200"
+        },
+        {
+          "orderlineId": 502,
+          "productID": "124",
+          "productName": "Pen",
+          "qty": "10",
+          "unitPrice": "30",
+          "linePrice": "300"
+        },
+        {
+          "orderlineId": 503,
+          "productID": "124",
+          "productName": "Head Phones",
+          "qty": "2",
+          "unitPrice": "500",
+          "linePrice": "1000"
+        },
+        {
+          "orderlineId": 504,
+          "productID": "125",
+          "productName": "Charger",
+          "qty": "5",
+          "unitPrice": "100",
+          "linePrice": "500"
+        }
+      ]
+    },
+    {
+      "orddate": "10/07/2017",
+      "orderId": "60",
+      "orderTotal": "2500",
+      "supplierName": "Shorien Stationaries",
+      "items": [
+        {
+          "orderlineId": 601,
+          "productID": "124",
+          "productName": "Head Phones",
+          "qty": "2",
+          "unitPrice": "500",
+          "linePrice": "1000"
+        },
+        {
+          "orderlineId": 602,
+          "productID": "125",
+          "productName": "Charger",
+          "qty": "15",
+          "unitPrice": "100",
+          "linePrice": "1500"
+        }
+      ]
+    }
+  ]
+}

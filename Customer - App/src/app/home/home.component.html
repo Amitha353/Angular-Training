@@ -1,0 +1,5 @@
+<div class="container">
+  <div *ngFor="let customer of customerObs$ | async">
+    {{customer.firstName}}
+  </div>
+</div>

@@ -1,0 +1,15 @@
+.card {
+    height: 150px;
+}
+
+.cardHeader {
+    background-color: cadetblue;
+    color: white;
+    font-size: 12pt;
+    padding: 2px;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}
